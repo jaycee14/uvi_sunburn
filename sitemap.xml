@@ -2,10 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <!-- Homepage -->
+    <!-- https://www.google.com/ping?sitemap=https://sunburn-calculator.pages.dev/sitemap.xml -->
+    
     <url>
         <loc>https://sunburn-calculator.pages.dev/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
+        <lastmod>2023-10-09</lastmod>
+    </url>
+
+    <url>
+        <loc>https://sunburn-calculator.pages.dev/about.html</loc>
+        <lastmod>2023-10-09</lastmod>
+    </url>
+
+    <url>
+        <loc>https://sunburn-calculator.pages.dev/privacy.html</loc>
+        <lastmod>22023-10-09</lastmod>
     </url>
 
 </urlset>
